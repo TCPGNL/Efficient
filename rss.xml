@@ -6,7 +6,7 @@
   <link href="/rss.xml" rel="self"/>
   
   <link href="https://efficient.tcpgnl.com/"/>
-  <updated>2020-03-22T01:14:00.000Z</updated>
+  <updated>2020-05-02T15:57:42.595Z</updated>
   <id>https://efficient.tcpgnl.com/</id>
   
   <author>
@@ -15,6 +15,30 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>推荐工具ifttt</title>
+    <link href="https://efficient.tcpgnl.com/ifttt.html"/>
+    <id>https://efficient.tcpgnl.com/ifttt.html</id>
+    <published>2020-05-02T15:26:41.000Z</published>
+    <updated>2020-05-02T15:57:42.595Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="IFTTT的简介"><a href="#IFTTT的简介" class="headerlink" title="IFTTT的简介"></a>IFTTT的简介</h1><p>IFTTT 是IF THIS THAN THAT的缩写,可以按照流程事务进行处理,简化不必要的过程(比如离开公司,电话自动解除静音,当网站有更新时候,自动推送到tg的群或者频道中)<br>网站网址:<a href="www.ifttt.com">www.ifttt.com</a></p><h1 id="IFTTT-可以做什么"><a href="#IFTTT-可以做什么" class="headerlink" title="IFTTT 可以做什么"></a>IFTTT 可以做什么</h1><p>IFTTT is the free way to get all your apps and devices talking to each other. Not everything on the internet plays nice, so we’re on a mission to build a more connected world.<br>将设备和应用进行来连接,建立一个更多互联的世界.(其实就是将设备和应用互联,减轻不必要的体力支出)</p><h1 id="示例-此处我们做一个读取网站rss发送到telegram的应用"><a href="#示例-此处我们做一个读取网站rss发送到telegram的应用" class="headerlink" title="示例(此处我们做一个读取网站rss发送到telegram的应用)"></a>示例(此处我们做一个读取网站rss发送到telegram的应用)</h1>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h1 id=&quot;IFTTT的简介&quot;&gt;&lt;a href=&quot;#IFTTT的简介&quot; class=&quot;headerlink&quot; title=&quot;IFTTT的简介&quot;&gt;&lt;/a&gt;IFTTT的简介&lt;/h1&gt;&lt;p&gt;IFTTT 是IF THIS THAN THAT的缩写,可以按照流程事务进行处理,简化不必要
+      
+    
+    </summary>
+    
+    
+    
+      <category term="网站推荐,软件推荐" scheme="https://efficient.tcpgnl.com/tags/%E7%BD%91%E7%AB%99%E6%8E%A8%E8%8D%90-%E8%BD%AF%E4%BB%B6%E6%8E%A8%E8%8D%90/"/>
+    
+  </entry>
   
   <entry>
     <title>软件推荐-内网互传AirDroid</title>
