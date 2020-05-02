@@ -6,7 +6,7 @@
   <link href="/rss.xml" rel="self"/>
   
   <link href="https://efficient.tcpgnl.com/"/>
-  <updated>2020-05-02T15:57:42.595Z</updated>
+  <updated>2020-05-02T16:38:14.450Z</updated>
   <id>https://efficient.tcpgnl.com/</id>
   
   <author>
@@ -21,9 +21,9 @@
     <link href="https://efficient.tcpgnl.com/ifttt.html"/>
     <id>https://efficient.tcpgnl.com/ifttt.html</id>
     <published>2020-05-02T15:26:41.000Z</published>
-    <updated>2020-05-02T15:57:42.595Z</updated>
+    <updated>2020-05-02T16:38:14.450Z</updated>
     
-    <content type="html"><![CDATA[<h1 id="IFTTT的简介"><a href="#IFTTT的简介" class="headerlink" title="IFTTT的简介"></a>IFTTT的简介</h1><p>IFTTT 是IF THIS THAN THAT的缩写,可以按照流程事务进行处理,简化不必要的过程(比如离开公司,电话自动解除静音,当网站有更新时候,自动推送到tg的群或者频道中)<br>网站网址:<a href="www.ifttt.com">www.ifttt.com</a></p><h1 id="IFTTT-可以做什么"><a href="#IFTTT-可以做什么" class="headerlink" title="IFTTT 可以做什么"></a>IFTTT 可以做什么</h1><p>IFTTT is the free way to get all your apps and devices talking to each other. Not everything on the internet plays nice, so we’re on a mission to build a more connected world.<br>将设备和应用进行来连接,建立一个更多互联的世界.(其实就是将设备和应用互联,减轻不必要的体力支出)</p><h1 id="示例-此处我们做一个读取网站rss发送到telegram的应用"><a href="#示例-此处我们做一个读取网站rss发送到telegram的应用" class="headerlink" title="示例(此处我们做一个读取网站rss发送到telegram的应用)"></a>示例(此处我们做一个读取网站rss发送到telegram的应用)</h1>]]></content>
+    <content type="html"><![CDATA[<h1 id="IFTTT的简介"><a href="#IFTTT的简介" class="headerlink" title="IFTTT的简介"></a>IFTTT的简介</h1><p>IFTTT 是IF THIS THAN THAT的缩写,可以按照流程事务进行处理,简化不必要的过程(比如离开公司,电话自动解除静音,当网站有更新时候,自动推送到tg的群或者频道中)<br>网站网址:<a href="www.ifttt.com">www.ifttt.com</a></p><h1 id="IFTTT-可以做什么"><a href="#IFTTT-可以做什么" class="headerlink" title="IFTTT 可以做什么"></a>IFTTT 可以做什么</h1><p>IFTTT is the free way to get all your apps and devices talking to each other. Not everything on the internet plays nice, so we’re on a mission to build a more connected world.<br>将设备和应用进行来连接,建立一个更多互联的世界.(其实就是将设备和应用互联,减轻不必要的体力支出)</p><h1 id="示例-此处我们做一个读取网站rss发送到telegram的应用"><a href="#示例-此处我们做一个读取网站rss发送到telegram的应用" class="headerlink" title="示例(此处我们做一个读取网站rss发送到telegram的应用)"></a>示例(此处我们做一个读取网站rss发送到telegram的应用)</h1><h2 id="注册用户"><a href="#注册用户" class="headerlink" title="注册用户"></a>注册用户</h2><p>主页 点击有上角的sign up 按钮<br><img src="https://tcpblog.oss-cn-beijing.aliyuncs.com/img/ifttt_index.png" alt=""><br>进入注册页面 选择合适的方式注册(直接用社交账号登录或者用账号密码登录)<br><img src="https://tcpblog.oss-cn-beijing.aliyuncs.com/img/ifttt_register.png" alt=""></p><h2 id="开始查找程序"><a href="#开始查找程序" class="headerlink" title="开始查找程序"></a>开始查找程序</h2><p>进入主页,下面进入查找选项<br><img src="https://tcpblog.oss-cn-beijing.aliyuncs.com/img/ifttt_explore.png" alt=""><br>查找rss的applet,并选择<br><img src="https://tcpblog.oss-cn-beijing.aliyuncs.com/img/ifttt_rss_explore.png" alt="">  </p><h2 id="连接applet"><a href="#连接applet" class="headerlink" title="连接applet"></a>连接applet</h2><p><img src="https://tcpblog.oss-cn-beijing.aliyuncs.com/img/ifttt_rss_tg_connect.png" alt=""></p><h2 id="设置applet"><a href="#设置applet" class="headerlink" title="设置applet"></a>设置applet</h2><p>进入设置applet<br><img src="https://tcpblog.oss-cn-beijing.aliyuncs.com/img/ifttt_rss_tg_setting.png" alt=""><br>备注<br>进入群组选择后 出现下面的画面,进行连接群组<br><img src="https://tcpblog.oss-cn-beijing.aliyuncs.com/img/ifttt_link_tg.png" alt=""></p><p>选择群组<br><img src="https://tcpblog.oss-cn-beijing.aliyuncs.com/img/ifttt_select_group.png" alt=""><br>添加<br><img src="https://tcpblog.oss-cn-beijing.aliyuncs.com/img/ifttt_add_into_telegram.png" alt=""><br>添加成功通知<br><img src="https://tcpblog.oss-cn-beijing.aliyuncs.com/img/ifttt_add_success_telegram.png" alt=""><br>最终设置<br><img src="https://tcpblog.oss-cn-beijing.aliyuncs.com/img/ifttt_setting_rss_telegram.png" alt=""></p><h2 id="最终结果"><a href="#最终结果" class="headerlink" title="最终结果"></a>最终结果</h2><p><img src="https://tcpblog.oss-cn-beijing.aliyuncs.com/img/ifttt_rss_result.png" alt=""></p><h2 id="结果分析"><a href="#结果分析" class="headerlink" title="结果分析"></a>结果分析</h2><p>这个项目明显的减轻了人工浏览网站和人工推送通知的繁杂的事务,其实IFTTT 还有很多的优点,静待大家慢慢的发掘.</p>]]></content>
     
     <summary type="html">
     
