@@ -4,7 +4,8 @@
 
 ## 待办
 
-- [ ] 推荐IFTTT
+- [x] 推荐IFTTT
+- [ ] 推荐使用zapier
 - [ ] 推荐使用Telegram
 - [ ] 推荐Docker
 - [ ] 推荐Jenkins,Circleci,Travis ci,GitHub Actions
