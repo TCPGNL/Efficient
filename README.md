@@ -31,9 +31,9 @@
 
 ## 网站 website
 
-[efficient.tcpgnl.com](efficient.tcpgnl.com)  
+[efficient.tcpgnl.com](http://efficient.tcpgnl.com)  
 
-[gx.tcpgnl.com](gx.tcpgnl.com)
+[gx.tcpgnl.com](http://gx.tcpgnl.com)
 
 ## QQ group
 群号码:1059159947
