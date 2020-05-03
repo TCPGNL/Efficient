@@ -6,7 +6,7 @@
   <link href="/rss.xml" rel="self"/>
   
   <link href="https://efficient.tcpgnl.com/"/>
-  <updated>2020-05-03T15:46:46.453Z</updated>
+  <updated>2020-05-03T16:08:53.976Z</updated>
   <id>https://efficient.tcpgnl.com/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="https://efficient.tcpgnl.com/zapier.html"/>
     <id>https://efficient.tcpgnl.com/zapier.html</id>
     <published>2020-05-03T03:47:29.000Z</published>
-    <updated>2020-05-03T15:46:46.453Z</updated>
+    <updated>2020-05-03T16:08:53.976Z</updated>
     
     <content type="html"><![CDATA[<h1 id="Zapier的简介-和IFTTT的异同"><a href="#Zapier的简介-和IFTTT的异同" class="headerlink" title="Zapier的简介/和IFTTT的异同"></a>Zapier的简介/和IFTTT的异同</h1><p>Zapier 是一个工作流的软件,可以将多个应用作为工作流,进行配置(想较与IFTTT的链接两个应用).与IFTTT不同的是,Zapier 是想用户收费的网站,IFTTT是向开发者/企业收费的网站,Zapier可以配置多个相同的app,而IFTTT同样的app只可以设置一个.<br>网站网址:<a href="www.Zapier.com">www.Zapier.com</a></p><h1 id="Zapier-可以做什么"><a href="#Zapier-可以做什么" class="headerlink" title="Zapier 可以做什么"></a>Zapier 可以做什么</h1><p>Easy automation for busy people. Zapier moves info between your web apps automatically, so you can focus on your most important work.<br>为忙碌的人提供自动化,Zapier在网页app中进行自动化,因此你可以关注与你最重要的工作</p><h1 id="示例-此处我们记录一个当有新的Twitter-follower时候-自动记录到表格中"><a href="#示例-此处我们记录一个当有新的Twitter-follower时候-自动记录到表格中" class="headerlink" title="示例(此处我们记录一个当有新的Twitter follower时候,自动记录到表格中)"></a>示例(此处我们记录一个当有新的Twitter follower时候,自动记录到表格中)</h1><p>我的Twitter: <a href="https://twitter/tcpgnl" target="_blank" rel="noopener">https://twitter/tcpgnl</a><br>Zapier注册网址 <a href="https://airtable.com/invite/r/C9fMmT9a" target="_blank" rel="noopener">https://airtable.com/invite/r/C9fMmT9a</a>  </p><p>注册用户比较简单.此处不演示如何注册用户</p><h2 id="进入dashboard"><a href="#进入dashboard" class="headerlink" title="进入dashboard"></a>进入dashboard</h2><p>链接: <a href="https://zapier.com/app/dashboard" target="_blank" rel="noopener">https://zapier.com/app/dashboard</a>  </p><h2 id="创建zip"><a href="#创建zip" class="headerlink" title="创建zip"></a>创建zip</h2><p><img src="https://tcpblog.oss-cn-beijing.aliyuncs.com/img/zapier_tt_airtable.png" alt=""></p><h2 id="进行授权"><a href="#进行授权" class="headerlink" title="进行授权"></a>进行授权</h2><p><img src="https://tcpblog.oss-cn-beijing.aliyuncs.com/img/zapier_link_twitter_airtable.png" alt=""></p><h2 id="填写相应的数据"><a href="#填写相应的数据" class="headerlink" title="填写相应的数据"></a>填写相应的数据</h2><h3 id="Twitter"><a href="#Twitter" class="headerlink" title="Twitter"></a>Twitter</h3><ol><li><img src="https://tcpblog.oss-cn-beijing.aliyuncs.com/img/zapier_choose_app_event.png" alt=""></li><li>choose account<br><img src="https://tcpblog.oss-cn-beijing.aliyuncs.com/img/zapier_choose_account.png" alt="">  </li><li>Find data(此处是测试的数据)<br><img src="https://tcpblog.oss-cn-beijing.aliyuncs.com/img/zapier_find_data.png" alt=""></li></ol><h3 id="Airtable"><a href="#Airtable" class="headerlink" title="Airtable"></a>Airtable</h3><ol><li>Choose app and event<br><img src="https://tcpblog.oss-cn-beijing.aliyuncs.com/img/zapier_choose_app_event_airtable.png" alt="">  </li><li>Choose account<br><img src="https://tcpblog.oss-cn-beijing.aliyuncs.com/img/zapier_choose_account_airtable.png" alt="">  </li><li>Customize Record<br><img src="https://tcpblog.oss-cn-beijing.aliyuncs.com/img/zapier_customize_record_airtable.png" alt="">  </li><li>Send data(test)<br><img src="https://tcpblog.oss-cn-beijing.aliyuncs.com/img/zapier_airtable_send_data.png" alt=""></li></ol><h2 id="成果"><a href="#成果" class="headerlink" title="成果"></a>成果</h2><p><img src="https://tcpblog.oss-cn-beijing.aliyuncs.com/img/zapier_twitter_airtable_result.png" alt=""></p><h2 id="结果分析"><a href="#结果分析" class="headerlink" title="结果分析"></a>结果分析</h2><p>也不到知道自己的fo会不会到1000,会不会涨,我们可以明显的看到,此类软件,减轻了我们的手动查看fo涨了没的次数(减轻不必要工作),让我们关注于更重要的事情.(快来fo我啊,手动狗头) <a href="https://twitter/tcpgnl" target="_blank" rel="noopener">https://twitter/tcpgnl</a>.</p>]]></content>
     
@@ -47,7 +47,7 @@
     <link href="https://efficient.tcpgnl.com/ifttt.html"/>
     <id>https://efficient.tcpgnl.com/ifttt.html</id>
     <published>2020-05-02T15:26:41.000Z</published>
-    <updated>2020-05-03T16:07:07.410Z</updated>
+    <updated>2020-05-03T16:08:35.780Z</updated>
     
     <content type="html"><![CDATA[<h1 id="IFTTT的简介"><a href="#IFTTT的简介" class="headerlink" title="IFTTT的简介"></a>IFTTT的简介</h1><p>IFTTT 是IF THIS THAN THAT的缩写,可以按照流程事务进行处理,简化不必要的过程(比如离开公司,电话自动解除静音,当网站有更新时候,自动推送到tg的群或者频道中)<br>网站网址:<a href="www.ifttt.com">www.ifttt.com</a></p><h1 id="IFTTT-可以做什么"><a href="#IFTTT-可以做什么" class="headerlink" title="IFTTT 可以做什么"></a>IFTTT 可以做什么</h1><p>IFTTT is the free way to get all your apps and devices talking to each other. Not everything on the internet plays nice, so we’re on a mission to build a more connected world.<br>将设备和应用进行来连接,建立一个更多互联的世界.(其实就是将设备和应用互联,减轻不必要的体力支出)</p><h1 id="示例-此处我们做一个读取网站rss发送到telegram的应用"><a href="#示例-此处我们做一个读取网站rss发送到telegram的应用" class="headerlink" title="示例(此处我们做一个读取网站rss发送到telegram的应用)"></a>示例(此处我们做一个读取网站rss发送到telegram的应用)</h1><h2 id="注册用户"><a href="#注册用户" class="headerlink" title="注册用户"></a>注册用户</h2><p>主页 点击有上角的sign up 按钮<br><img src="https://tcpblog.oss-cn-beijing.aliyuncs.com/img/ifttt_index.png" alt=""><br>进入注册页面 选择合适的方式注册(直接用社交账号登录或者用账号密码登录)<br><img src="https://tcpblog.oss-cn-beijing.aliyuncs.com/img/ifttt_register.png" alt=""></p><h2 id="开始查找程序"><a href="#开始查找程序" class="headerlink" title="开始查找程序"></a>开始查找程序</h2><p>进入主页,下面进入查找选项<br><img src="https://tcpblog.oss-cn-beijing.aliyuncs.com/img/ifttt_explore.png" alt=""><br>查找rss的applet,并选择<br><img src="https://tcpblog.oss-cn-beijing.aliyuncs.com/img/ifttt_rss_explore.png" alt="">  </p><h2 id="连接applet"><a href="#连接applet" class="headerlink" title="连接applet"></a>连接applet</h2><p><img src="https://tcpblog.oss-cn-beijing.aliyuncs.com/img/ifttt_rss_tg_connect.png" alt=""></p><h2 id="设置applet"><a href="#设置applet" class="headerlink" title="设置applet"></a>设置applet</h2><p>进入设置applet<br><img src="https://tcpblog.oss-cn-beijing.aliyuncs.com/img/ifttt_rss_tg_setting.png" alt=""><br>备注<br>进入群组选择后 出现下面的画面,进行连接群组<br><img src="https://tcpblog.oss-cn-beijing.aliyuncs.com/img/ifttt_link_tg.png" alt=""></p><p>选择群组<br><img src="https://tcpblog.oss-cn-beijing.aliyuncs.com/img/ifttt_select_group.png" alt=""><br>添加<br><img src="https://tcpblog.oss-cn-beijing.aliyuncs.com/img/ifttt_add_into_telegram.png" alt=""><br>添加成功通知<br><img src="https://tcpblog.oss-cn-beijing.aliyuncs.com/img/ifttt_add_success_telegram.png" alt=""><br>最终设置<br><img src="https://tcpblog.oss-cn-beijing.aliyuncs.com/img/ifttt_setting_rss_telegram.png" alt=""></p><h2 id="最终结果"><a href="#最终结果" class="headerlink" title="最终结果"></a>最终结果</h2><p><img src="https://tcpblog.oss-cn-beijing.aliyuncs.com/img/ifttt_rss_result.png" alt=""></p><h2 id="结果分析"><a href="#结果分析" class="headerlink" title="结果分析"></a>结果分析</h2><p>这个项目明显的减轻了人工浏览网站和人工推送通知的繁杂的事务,其实IFTTT 还有很多的优点,静待大家慢慢的发掘.</p>]]></content>
     
@@ -71,7 +71,7 @@
     <link href="https://efficient.tcpgnl.com/AirDroid.html"/>
     <id>https://efficient.tcpgnl.com/AirDroid.html</id>
     <published>2020-03-22T00:51:20.000Z</published>
-    <updated>2020-03-22T01:14:00.000Z</updated>
+    <updated>2020-05-03T16:09:02.998Z</updated>
     
     <content type="html"><![CDATA[<h1 id="现存问题"><a href="#现存问题" class="headerlink" title="现存问题"></a>现存问题</h1><p>内网传输文件一直是痛点问题,如何快速的内网传输文件,也一直困扰着我们的生活,因此推荐</p><h1 id="推荐原因"><a href="#推荐原因" class="headerlink" title="推荐原因"></a>推荐原因</h1><p>AirDroid 内网互传软件已经经过很多人,很长时间的使用,安全性和速度都有很高的评价,因此推荐此软件给需要内网传输文件的朋友.</p><h1 id="软件网址"><a href="#软件网址" class="headerlink" title="软件网址"></a>软件网址</h1><p><a href="https://www.airdroid.com/" target="_blank" rel="noopener">https://www.airdroid.com/</a></p>]]></content>
     
@@ -96,7 +96,7 @@
     <link href="https://efficient.tcpgnl.com/google.html"/>
     <id>https://efficient.tcpgnl.com/google.html</id>
     <published>2020-03-21T15:15:39.000Z</published>
-    <updated>2020-03-21T15:19:30.000Z</updated>
+    <updated>2020-05-03T16:08:57.890Z</updated>
     
     <content type="html"><![CDATA[<h1 id="推荐原因"><a href="#推荐原因" class="headerlink" title="推荐原因"></a>推荐原因</h1><p>快速检索信息,减少检索信息的时间,能快速的找到问题的关键.</p><h1 id="技巧"><a href="#技巧" class="headerlink" title="技巧"></a>技巧</h1><p>对中文搜索支持的很好,对于很前沿的问题,推荐使用设计者的母语进行查询,比如英语.</p>]]></content>
     
@@ -121,7 +121,7 @@
     <link href="https://efficient.tcpgnl.com/start.html"/>
     <id>https://efficient.tcpgnl.com/start.html</id>
     <published>2020-03-21T07:49:31.000Z</published>
-    <updated>2020-03-21T08:34:07.000Z</updated>
+    <updated>2020-05-03T16:09:07.409Z</updated>
     
     <content type="html"><![CDATA[<h1 id="何为高效"><a href="#何为高效" class="headerlink" title="何为高效"></a>何为高效</h1><p>高效就是用最简单的方法做完当前的事情,在此阶段中可以使用各种方法,工具,软件以及其他的产品,来提高效率.</p><h1 id="为何建立此网站"><a href="#为何建立此网站" class="headerlink" title="为何建立此网站"></a>为何建立此网站</h1><p>寻求高效工具的过程耗时耗力,何不开创一个网站,大家都可以进行推荐,一起收集高效方法,工具和软件等高效的事物,岂不是很美.</p><h1 id="为什么要寻求高效"><a href="#为什么要寻求高效" class="headerlink" title="为什么要寻求高效"></a>为什么要寻求高效</h1><p>可以重复的事情,是不是就没有意义呢,既然可以重复又费时费力,何不直接使用工具进行替代呢,循环运行,减少不必要的人力支出和时间支出,留下时间做其他更重要的事情.</p><h1 id="项目的形式是什么样子的"><a href="#项目的形式是什么样子的" class="headerlink" title="项目的形式是什么样子的?"></a>项目的形式是什么样子的?</h1><p>项目形式暂定如下:</p><ul><li>网站(提供RSS)</li><li>QQ group</li><li>微信group</li><li>telegram group</li></ul><h1 id="愿景"><a href="#愿景" class="headerlink" title="愿景"></a>愿景</h1><p>让我们为了享受未来进发.</p>]]></content>
     
