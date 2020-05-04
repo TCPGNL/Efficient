@@ -5,7 +5,7 @@
 ## 待办
 
 - [x] 推荐IFTTT (自动化软件)
-- [ ] 推荐使用zapier (自动化软件)
+- [x] 推荐使用zapier (自动化软件)
 - [ ] 推荐使用Telegram (高效沟通软件)
 - [ ] 推荐Docker (虚拟化软件)
 - [ ] 推荐Jenkins,Circleci,Travis ci,GitHub Actions (持续集成软件)
